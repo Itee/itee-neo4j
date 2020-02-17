@@ -104,9 +104,8 @@ gulp.task( 'help', ( done ) => {
  */
 gulp.task( 'patch', () => {
 
-    return gulp.src( [ 'node_modules/apoc/index.js' ] )
-               .pipe( replace( '#! /usr/bin/env node\n', '' ) )
-               .pipe( gulp.dest( 'node_modules/apoc/' ) )
+    // No patch for this package
+    done()
 
 } )
 
