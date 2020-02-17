@@ -102,7 +102,7 @@ gulp.task( 'help', ( done ) => {
  * @global
  * @description Will apply some patch/replacements in dependencies
  */
-gulp.task( 'patch', () => {
+gulp.task( 'patch', ( done ) => {
 
     // No patch for this package
     done()
