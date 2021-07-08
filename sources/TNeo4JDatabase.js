@@ -33,10 +33,10 @@ class TNeo4JDatabase extends TAbstractDatabase {
 
         this._driver.query( 'match (n) return n' ).exec().then(
             function ( response ) {
-                console.log( response )
+                this.logger.log( response )
             },
             function ( fail ) {
-                console.log( fail )
+                this.logger.log( fail )
             }
         )
 
