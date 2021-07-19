@@ -1,3 +1,14 @@
+## [1.0.1](https://github.com/Itee/itee-neo4j/compare/v1.0.0...v1.0.1) (2021-07-08)
+
+
+### Bug Fixes
+
+* **package:** apply dependencies fix ([ec2535c](https://github.com/Itee/itee-neo4j/commit/ec2535c3fab3ae5ed909f0f091412acc3282d773))
+* **package:** apply fix from dependencies ([4602e1f](https://github.com/Itee/itee-neo4j/commit/4602e1f9eefd47b15e62af7c4a840d39c1243af3))
+* **package:** apply npm audit fix ([75f6b68](https://github.com/Itee/itee-neo4j/commit/75f6b68e4eaf86ffb03c4a7b41b0d4aff1b5bbcf))
+* **package:** update all dependencies to their latest version ([104f38b](https://github.com/Itee/itee-neo4j/commit/104f38b80775246ea4f9bae2eb9eaba467efb2b5))
+* **releaserc:** fix missing dev maps ([9e6aa75](https://github.com/Itee/itee-neo4j/commit/9e6aa75106d2292724509f757ffd7b520f138c75))
+
 # 1.0.0 (2020-02-17)
 
 

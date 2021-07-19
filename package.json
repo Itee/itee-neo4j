@@ -1,6 +1,6 @@
 {
     "name": "itee-neo4j",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The Neo4j database implementation for Itee projects",
     "keywords": [
         "itee",
