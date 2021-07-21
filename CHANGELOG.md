@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Itee/itee-neo4j/compare/v1.0.1...v1.0.2) (2021-07-21)
+
+
+### Bug Fixes
+
+* **readme:** add simple readme content ([ad98742](https://github.com/Itee/itee-neo4j/commit/ad987428e818a308385c4e2444089f3a0de0f712))
+
 ## [1.0.1](https://github.com/Itee/itee-neo4j/compare/v1.0.0...v1.0.1) (2021-07-08)
 
 

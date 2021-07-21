@@ -1,4 +1,4 @@
-console.log('Itee.Database.Neo4j v1.0.1 - EsModule')
+console.log('Itee.Database.Neo4j v1.0.2 - EsModule')
 import * as Neo4JDriver from 'apoc';
 import { TAbstractDatabase } from 'itee-database';
 
